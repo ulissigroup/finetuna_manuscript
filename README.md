@@ -1,1 +1,1 @@
-# al_mlp_manuscript
+# finetuna_manuscript
